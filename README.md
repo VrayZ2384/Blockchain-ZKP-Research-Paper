@@ -21,9 +21,3 @@ This research paper explores the interconnection between blockchain technology a
 - How zero-knowledge proofs address privacy concerns.
 - Real-world applications of zk-SNARKs in ZCash.
 - A comparison of privacy features in Bitcoin and ZCash.
-
-## Acknowledgments
-The author would like to acknowledge [names or organizations] for their valuable contributions and support during the research process.
-
-## Revision History
-- Version 1.0 (Initial Release) - [Date]
